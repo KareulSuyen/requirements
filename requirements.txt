@@ -9,4 +9,3 @@ dj-database-url
 psycopg2-binary
 whitenoise
 gunicorn
-# Add allauth if ifif if ifi fi fifi fi if ifi if ifi fif iif ifi if ifi fi i u want allauth 
