@@ -1,2 +1,1 @@
-# Django requirements.txt 
-### makakalimutin ako
+# Django requirements
