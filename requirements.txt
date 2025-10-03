@@ -10,3 +10,4 @@ psycopg2-binary
 whitenoise
 gunicorn
 django-allauth
+dj-rest-auth
